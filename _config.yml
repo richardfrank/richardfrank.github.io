@@ -15,7 +15,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - 
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : "images/headshot.png"
   name             : "Richard W. Frank" 
   bio              : "Senior Lecturer"
   location         : "Canberra, Australia"
