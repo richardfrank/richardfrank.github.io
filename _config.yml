@@ -24,12 +24,12 @@ author:
   email            : "richard.frank@anu.edu.au" 
 
   # Academic websites
-  googlescholar    : "fL0DcbQAAAAJ&h"
-  orcid            : "0000-0003-4382-1039"
+  googlescholar    : "fL0DcbQAAAAJ"
+  orcid            : "https://orcid.org/0000-0003-4382-1039"
   github           : "richardfrank"
  
   # Social media
-  bluesky          : "richwfrank" # Replace this with you Bluesky username
+  bluesky          : "richwfrank.bsky.social" # Replace this with you Bluesky username
   youtube          : "richwfrank"
   
 
