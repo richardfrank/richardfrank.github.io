@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](/files/cv.pdf).
+You can download my CV [here](https://richardwfrank.com/files/cv.pdf).
