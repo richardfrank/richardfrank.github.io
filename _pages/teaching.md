@@ -9,7 +9,7 @@ Welcome to my teaching page! In recent years I have taught classes on internatio
 
 teaching philosophy pdf
 
-Current/recent classes
+**Current/recent classes**
 In 2025 I taught International Political Economy and taught into Global Cooperation and Institutions. In 2023 and 2024 I taught Contemporary Political Analysis, Conflict and Change in sub-Saharan Africa, and Environment, Human Security, and Conflict. During the first half of 2021 I taught a small honours seminar, Civilian Protection in Conflict and Post-Conflict Zones.
 
 A complete list of classes I have taught
