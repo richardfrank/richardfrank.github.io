@@ -161,7 +161,7 @@ From Afghanistan to Zimbabwe the world has witnessed a rising tide of contentiou
 </details>
 
 <details>
-<summary><strong>Advancing Electoral Integrity (2014)</strong> - <em>Oxford Univeristy Press</em></summary>
+<summary><strong>Advancing Electoral Integrity (2014)</strong> - <em>Oxford University Press</em></summary>
 
 _with Pippa Norris and Ferran Martínez i Coma_
 
