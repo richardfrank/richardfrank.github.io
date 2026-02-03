@@ -96,6 +96,61 @@ Civil wars reflect, in part, internal contestation over the provision of resourc
 
 </details>
 
+<details>
+<summary><strong>Assessing the Quality of Elections (2013) </strong> - <em>Journal of Democracy</em></summary>
+
+_with Pippa Norris and Ferran Martínez i Coma_
+
+Determining when, where and why elections fail is a growth industry yet to date scholars and practitioners have been hindered by lack of reliable, credible and consistent evidence which could be used to compare the quality of elections around the world. This paper presents the first results of a new pilot study, based on an expert survey of Perceptions of Electoral Integrity applied to 20 countries. This data allows analysts to compare an overall standardized 100-point PEI index, or the results can be examined in more fine-grained detail for eleven dimensions of electoral integrity, or for each of the separate 49 items. The PEI index is tested and found to demonstrate high levels of external validity, internal validity, and legitimacy. The paper concludes that, when triangulated with other evidence, PEI can address many research issues, such as how best to classify electoral autocracies, as well as proving useful for policymakers concerned with evaluating ‘what works’ to strengthen electoral integrity.
+
+[Published Version](https://doi.org/10.1353/jod.2013.0063) | [PDF](/files/JoD_2013.pdf)  
+<br>
+</details>
+
+<details>
+<summary><strong>Passinger or Driver? A Cross-National Examination of Media Coverage and Civil War Interventions (2013) </strong> - <em>International Interactions</em></summary>
+
+_with Sam R Bell and Paul Macharia_
+
+Prior research on civil war interventions suggests that the media play a significant role in states’ decisions to intervene. To date, however, most studies focus on specific cases (frequently by the US) leaving it unclear whether the media’s influence extends more broadly. This article argues that media coverage makes intervention move likely because of the way because of domestic political and popular pressure and bureaucratic incentives. We test our hypotheses using cross-national data on civil war interventions and media coverage. These data include a new measure of media coverage of 73 countries experiencing civil wars between 1982 and 1999. These data allow us to determine whether media coverage drives leaders’ decisions or follow them. Towards this end we employ a two-stage conditional maximum likelihood model to control for potential endogeneity between media attention and interventions. The results suggest a reciprocal positive relationship between media attention and civil conflict interventions. Specifically, an increase of one standard deviation increase in media coverage raises the probability of intervention 68%.
+
+[Published Version](https://doi.org/10.1080/03050629.2013.834257) | [PDF](/files/II_2013.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/24820)
+<br>
+</details>
+
+<details>
+<summary><strong>Good for the Money? International Finance, State Capacity, and Internal Armed Conflict (2012) </strong> - <em>Journal of Peace Research</em></summary>
+
+_with Matthew DiGiuseppe and Colin Barry_
+
+Previous research indicates that a lack of state capacity is a key determinant of internal armed conflict. Scholars identify several internal dimensions of state capacity, but have yet to explore how international finance influences state resources. This is surprising because sovereign lending has increased dramatically in recent decades and plays an increasing role in the functioning of developed and developing governments. In this article, we explore this relationship between a state’s integration into global credit markets and its subsequent capacity to promote domestic stability. We argue that international capital increases a state’s ability to respond to internal opposition because states with favorable credit terms can expand their resource base beyond domestic constraints to deter, accommodate, or repress opposition while maintaining a level provision of resources to their political base. We examine the influence that both capital access and credit terms have on the risk of civil conflict in 141 countries from 1981-2007. Our empirical results indicate that states with affordable credit access are indeed less likely to experience civil conflict.
+
+[Published Version](https://doi.org/10.1177/0022343311434239) | [Preprint](/files/JPR_2012.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/24821)
+<br>
+</details>
+
+<details>
+<summary><strong>External Interventions in Civil Wars: A New Dataset (2009) </strong> - <em>Journal of Peace Research</em></summary>
+
+_with Patrick M Regan and Aysegul Aydin_
+
+Recent research in the civil war literature has focused on how and when external actors intervene. However, to date, systematic data have not existed on diplomatic efforts in conflict management. This article fills this gap and introduces a dataset on 438 diplomatic interventions in 68 conflicts stretching from 1945 to 1999. The authors briefly outline previous research on third-party interventions in civil wars, describe the dataset in some detail, including some initial patterns in the data, and describe how this dataset contributes to research into conflict processes. The authors also demonstrate how diplomatic interventions can be incorporated into other research agendas by merging this dataset with Doyle & Sambanis’s peacekeeping data and replicating their analysis to examine the role of external diplomacy on peacebuilding success. These data on interventions, moreover, can be merged with commonly used datasets on intrastate conflicts, which promises a wide range of application in civil war studies. Developing a greater understanding of when and how civil wars end, scholarship needs to take into account efforts to arrive at diplomatic solutions. And if, as the results demonstrate, externally driven diplomacy facilitates the termination of civil wars, then the policy implications are quite important.
+
+[Published Version](https://doi.org/10.1177/0022343308098408) | [Preprint](/files/JPR_2009.pdf) | [Replication Materials](https://www.prio.org/journals/jpr/replicationdata)
+<br>
+</details>
+
+<details>
+<summary><strong>New Datasets on Political Institutions and Elections, 1972-2005 (2009) </strong> - <em>Conflict Research and Peace Science</em></summary>
+
+_with Patrick M Regan and David H Clark_
+
+This article introduces two new datasets produced by the Institutions and Elections Project. Those datasets contain nuanced information describing the political institutions, the constitutional and practical arrangements in governments, and every national election for every country in the international system between 1972 and 2005. We believe the 127 variables in these data represent a significant contribution to research programs in comparative and world politics interested in the nuances of domestic politics.
+
+[Published Version](https://doi.org/10.1177/0738894209104556) | [Preprint](/files/CMPS_2009.pdf) 
+<br>
+</details>
+
 ## Books, edited
 
 <details>
@@ -127,5 +182,8 @@ This chapter introduces the Expert Survey of Perceptions of Electoral Integrity 
 
 </details>
 
+## Publications, other
 
+[Human Trafficking](https://sk.sagepub.com/ency/edvol/encyclopedia-of-social-deviance/chpt/human-trafficking#). 2014. Encyclopedia of Social Deviance. Heath Copes and Craig J. Forsyth, eds. Thousand Oaks, CA: Sage.
 
+[Book review](https://www.psqonline.org/article.cfm?IDArticle=18657) of Securing the Peace: The Durable Settlement of Civil Wars by Monica Duffy Toft. 2010. Political Science Quarterly 125(3): 148-9.
