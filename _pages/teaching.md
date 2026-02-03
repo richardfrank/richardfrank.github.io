@@ -9,16 +9,16 @@ Welcome to my teaching page! In recent years I have taught classes on internatio
 
 teaching philosophy pdf
 
-**Current/recent classes**
+## Current/recent classes 
 In 2025 I taught International Political Economy and taught into Global Cooperation and Institutions. In 2023 and 2024 I taught Contemporary Political Analysis, Conflict and Change in sub-Saharan Africa, and Environment, Human Security, and Conflict. During the first half of 2021 I taught a small honours seminar, Civilian Protection in Conflict and Post-Conflict Zones.
 
-A complete list of classes I have taught
+**A complete list of classes I have taught**
 
-Australian National University
+### Australian National University
 
-Undergraduate
+#### Undergraduate
 
-International Political Economy (POLS2094) 2025
+International Political Economy (POLS2094) 2026, 2025
 
 Global Cooperation and Institutions (POLS2133) 2025
 
@@ -36,7 +36,8 @@ International Relations Theory (POLS3017) 2015-2017
 
 University of New Orleans
 
-Graduate
+**Graduate**
+
 Maximum Likelihood Estimation (POLI 6003) 2010, 2012 (2012 course page)
 
 Civil Conflict (POLI 6990)  2010, 2012
