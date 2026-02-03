@@ -74,12 +74,58 @@ This article describes a semester-long classroom simulation of the Syrian confli
 
 </details>
 
+<details>
+<summary><strong>How Election Dynamics Shape Perceptions of Electoral Integrity (2017)</strong> - <em>Electoral Studies</em></summary>
 
+_with Ferran Martínez i Coma_
 
+In recent years a growing literature focuses on how and why some election processes are viewed as having integrity while others lack it. Some scholars examine how a state’s characteristics (e.g. its economic development, the education levels of its citizens, and their experience with elections) shape the voting process while others study how individual voters view the process and their role in it. The relative importance of election dynamics themselves and the process of their evaluation, however, remain unclear. What stages of the election process are most important when people evaluate elections? We argue that a better understanding of how election dynamics shape perceptions of election integrity is crucial because theoretically this process is at the heart of democratic representation and because from a policy-making standpoint these dynamics vary more over time than individual and state-level factors. This paper explains why certain parts of the election cycle are critical to determining how an election is judged—especially the fairness of election laws and media access, the conduct of election authorities, and the use of political violence. Empirical results using new data on 121 elections held in 109 countries during 2013, 2014, and the first half of 2015 are supportive of our argument.
 
+[Published Version](https://doi.org/10.1016/j.electstud.2017.05.007) | [PDF](/files/ES_2017.pdf) | [Appendix](/files/ES_2017_appendix)| [Replication Materials](https://doi.org/10.7910/DVN/8UGVDY)
 
+</details>
 
+<details>
+<summary><strong>Migrant Remittances and Civil War Onset (2014)</strong> - <em>Conflict Management and Peace Science</em></summary>
 
+_with Patrick Regan_
+
+Civil wars reflect, in part, internal contestation over the provision of resources. A governments ability to ‘buy off’ rebellion by providing social welfare payments is one mechanism to help ensure social stability. In times of economic distress, however, the government becomes increasingly constrained in its ability to provide social welfare and absent some form of financial relief will be subject to increasing pressure from potential rebel groups. Migrant remittances can serve as a smoothing mechanism that provides for social welfare needs outside the formal mechanisms of the state, and therefore act to reduce the incentive for rebellion. We develop a model of migrant remittances as a vehicle that provides domestic stability in times of economic constraints. We test hypotheses from this model on World Bank remittance data to 152 countries from 1980 to 2005. Our results suggest that under certain conditions migrant remittances lower the risk of civil war.
+
+[Published Version](https://doi.org/10.1177/0738894213520369) | [PDF](/files/CMPS_2014.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/DLPCXM)
+
+</details>
+
+## Books, edited
+
+<details>
+<summary><strong>Contentious Elections: From Ballots to Barracades (2015)</strong> - <em>Routledge</em></summary>
+
+_with Pippa Norris and Ferran Martínez i Coma_
+
+From Afghanistan to Zimbabwe the world has witnessed a rising tide of contentious elections ending in heated partisan debates, court challenges, street protests, and legitimacy challenges. In some cases, disputes have been settled peacefully through legal appeals and electoral reforms. In the worst cases, however, disputes have triggered bloodshed or government downfalls and military coups. Contentious elections are characterized by major challenges, with different degrees of severity, to the legitimacy of electoral actors, procedures, or outcomes. Despite growing concern, until recently little research has studied this phenomenon. The theory unfolded in this volume suggests that problems of electoral malpractice erode confidence in electoral authorities, spur peaceful protests demonstrating against the outcome, and, in the most severe cases, lead to outbreaks of conflict and violence. Understanding this process is of vital concern for domestic reformers and the international community, as well as attracting a growing new research agenda.
+
+</details>
+
+<details>
+<summary><strong>Advancing Electoral Integrity (2014)</strong> - <em>Oxford Univeristy Press</em></summary>
+
+_with Pippa Norris and Ferran Martínez i Coma_
+
+Many elections confront challenges in meeting international standards of electoral integrity, including in established democracies such as the US, UK and Canada. This edited book, based on new research presented at a Harvard workshop in June 2013, brings together a wide range of leading international experts and emerging voices to understand problems of electoral integrity in countries around the world. Chapters evaluate the standards, methods, and evidence for evaluating when elections fail; analyze the central role of election management bodies in promoting integrity;consider the impact of malpractices on political legitimacy, and identify effective policy interventions designed to advance integrity.
+
+</details>
+
+## Book chapters
+
+<details>
+<summary><strong>Expert Judgements (2014)</strong> - <em>Oxford Univeristy Press</em></summary>
+
+_with Ferran Martínez i Coma_
+
+This chapter introduces the Expert Survey of Perceptions of Electoral Integrity (PEI) and presents preliminary pilot phase results. We argue that this survey will contribute both to the survey methodology literature as well as to our understanding of why some elections meet international standards of electoral integrity and others do not. The PEI survey is part of a larger effort—the six-year Electoral Integrity Project—at understanding the causes and consequences of electoral integrity.
+
+</details>
 
 
 
