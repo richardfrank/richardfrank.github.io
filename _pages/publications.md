@@ -10,7 +10,7 @@ Welcome to my research page. You can also find my articles on my [Google Scholar
 
 ## Articles, peer-reviewed
 
-<details>
+<details markdown="1">
 <summary><strong>Explaining Election Violence: A Meta-Analysis (2025)</strong> - <em>Journal of Peace Research</em></summary>
 
 The literature on election violence lacks a consistent set of core predictors for why certain elections are violent and others are not. Between 2010 and 2022 ninety-seven scholars published sixty-five peer-reviewed journal articles on this topic using quantitative research designs involving over 440 predictor variables. As a distinct research area, therefore, the study of election violence has reached a size and maturity where it is useful to take stock. Through a meta-analysis of 581 models, this manuscript makes three key contributions. First, it finds that thirteen of forty-four variables consistently predict election violence, which highlights both the field's fragmentation and most promising avenues for future research. Second, it reveals that election-specific factors like fraud and competitiveness are more reliable predictors than commonly studied structural conditions like democracy or economic development. Third, it shows that many predictors operate differently at national and subnational levels, with only population size and domestic conflict significant at both levels. This manuscript’s findings suggest a greater focus is needed on election-specific triggers, explicit discussions about perpetrators and targets, and measurement issues.
@@ -19,7 +19,7 @@ The literature on election violence lacks a consistent set of core predictors fo
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Correlates of Voter Turnout (2023)</strong> - <em>Political Behavior</em></summary>
 
 _with Ferran Martínez i Coma_
@@ -30,7 +30,7 @@ Despite decades of research, there is no consensus as to the core correlates of 
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Human Trafficking Indicators: A New Dataset (2022)</strong> - <em>International Interactions</em></summary>
 
 
@@ -40,7 +40,7 @@ This article describes the Human Trafficking Indicators (HTI) dataset, a new res
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Freedom of Movement and Human Trafficking (2022)</strong> - <em>Journal of Human Rights</em></summary>
 
 _with Sam R Bell_
@@ -52,7 +52,7 @@ Some existing human trafficking research examines how trafficking laws and regul
 </details>
 
 
-<details>
+<details markdown="1">
 <summary><strong>Three Outcomes of Contentious Elections (2021)</strong> - <em>International Studies Review</em></summary>
  
 Elections are contentious by design, but contentious election outcomes—from democratic backsliding to widespread protests and violence—occur regularly and represent significant challenges to both domestic and international stability. This review essay explores three specific outcomes of contentious elections (i.e., failed democratization, democracy protests, and election violence) using three recent, influential books on these topics. It highlights several, overlapping causal mechanisms, including those focusing on structural characteristics, actor behavior, and election cycle dynamics. It also explores four cross-cutting themes (i.e., democratization, electoral history, structural constraints, and money in politics), as well as three areas for future research (i.e., overlooked actors, election integrity, and international factors).
@@ -61,7 +61,7 @@ Elections are contentious by design, but contentious election outcomes—from de
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>A Classroom Simulation of the Syrian Conflict (2019)</strong> - <em>PS: Political Science & Politics</em></summary>
 
 _with Jessica Genauer_
@@ -72,7 +72,7 @@ This article describes a semester-long classroom simulation of the Syrian confli
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>How Election Dynamics Shape Perceptions of Electoral Integrity (2017)</strong> - <em>Electoral Studies</em></summary>
 
 _with Ferran Martínez i Coma_
@@ -83,7 +83,7 @@ In recent years a growing literature focuses on how and why some election proces
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Migrant Remittances and Civil War Onset (2014)</strong> - <em>Conflict Management and Peace Science</em></summary>
 
 _with Patrick Regan_
@@ -94,7 +94,7 @@ Civil wars reflect, in part, internal contestation over the provision of resourc
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Assessing the Quality of Elections (2013) </strong> - <em>Journal of Democracy</em></summary>
 
 _with Pippa Norris and Ferran Martínez i Coma_
@@ -105,7 +105,7 @@ Determining when, where and why elections fail is a growth industry yet to date 
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Passinger or Driver? A Cross-National Examination of Media Coverage and Civil War Interventions (2013) </strong> - <em>International Interactions</em></summary>
 
 _with Sam R Bell and Paul Macharia_
@@ -116,7 +116,7 @@ Prior research on civil war interventions suggests that the media play a signifi
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Good for the Money? International Finance, State Capacity, and Internal Armed Conflict (2012) </strong> - <em>Journal of Peace Research</em></summary>
 
 _with Matthew DiGiuseppe and Colin Barry_
@@ -127,7 +127,7 @@ Previous research indicates that a lack of state capacity is a key determinant o
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>External Interventions in Civil Wars: A New Dataset (2009) </strong> - <em>Journal of Peace Research</em></summary>
 
 _with Patrick M Regan and Aysegul Aydin_
@@ -138,7 +138,7 @@ Recent research in the civil war literature has focused on how and when external
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>New Datasets on Political Institutions and Elections, 1972-2005 (2009) </strong> - <em>Conflict Research and Peace Science</em></summary>
 
 _with Patrick M Regan and David H Clark_
@@ -151,7 +151,7 @@ This article introduces two new datasets produced by the Institutions and Electi
 
 ## Books, edited
 
-<details>
+<details markdown="1">
 <summary><strong>Contentious Elections: From Ballots to Barracades (2015)</strong> - <em>Routledge</em></summary>
 
 _with Pippa Norris and Ferran Martínez i Coma_
@@ -160,7 +160,7 @@ From Afghanistan to Zimbabwe the world has witnessed a rising tide of contentiou
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Advancing Electoral Integrity (2014)</strong> - <em>Oxford University Press</em></summary>
 
 _with Pippa Norris and Ferran Martínez i Coma_
@@ -171,7 +171,7 @@ Many elections confront challenges in meeting international standards of elector
 
 ## Book chapters
 
-<details>
+<details markdown="1">
 <summary><strong>Expert Judgements (2014)</strong> - <em>Oxford Univeristy Press</em></summary>
 
 _with Ferran Martínez i Coma_
@@ -182,14 +182,14 @@ This chapter introduces the Expert Survey of Perceptions of Electoral Integrity 
 
 ## Publications, other
 
-<details>
+<details markdown="1">
 <summary><strong>Human Trafficking (2014)</strong> - <em>Encyclopedia of Social Deviance</em></summary>
 
 [Human Trafficking](https://sk.sagepub.com/ency/edvol/encyclopedia-of-social-deviance/chpt/human-trafficking#). 2014. Encyclopedia of Social Deviance. Heath Copes and Craig J. Forsyth, eds. Thousand Oaks, CA: Sage.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Book review (2010)</strong> - <em>Political Science Quarterly</em></summary>
 
 [Book review](https://www.psqonline.org/article.cfm?IDArticle=18657) of Securing the Peace: The Durable Settlement of Civil Wars by Monica Duffy Toft. 2010. Political Science Quarterly 125(3): 148-9. 
