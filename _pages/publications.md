@@ -15,7 +15,7 @@ Welcome to my research page. You can also find my articles on my [Google Scholar
 
 The literature on election violence lacks a consistent set of core predictors for why certain elections are violent and others are not. Between 2010 and 2022 ninety-seven scholars published sixty-five peer-reviewed journal articles on this topic using quantitative research designs involving over 440 predictor variables. As a distinct research area, therefore, the study of election violence has reached a size and maturity where it is useful to take stock. Through a meta-analysis of 581 models, this manuscript makes three key contributions. First, it finds that thirteen of forty-four variables consistently predict election violence, which highlights both the field's fragmentation and most promising avenues for future research. Second, it reveals that election-specific factors like fraud and competitiveness are more reliable predictors than commonly studied structural conditions like democracy or economic development. Third, it shows that many predictors operate differently at national and subnational levels, with only population size and domestic conflict significant at both levels. This manuscript’s findings suggest a greater focus is needed on election-specific triggers, explicit discussions about perpetrators and targets, and measurement issues.
 
-[Published Version](https://doi.org/10.1177/00223433251360191) | [PDF](/files/JPR_2025.pdf) | [Appendix](/files/JPR_2025_appendix)| [Replication Materials](https://www.prio.org/journals/jpr/replicationdata)
+[Published Version](https://doi.org/10.1177/00223433251360191) · [PDF](/files/JPR_2025.pdf) · [Appendix](/files/JPR_2025_appendix) · [Replication Materials](https://www.prio.org/journals/jpr/replicationdata)
 
 </details>
 
@@ -26,7 +26,7 @@ _with Ferran Martínez i Coma_
 
 Despite decades of research, there is no consensus as to the core correlates of national-level voter turnout. We argue that this is, in part, due to the lack of comprehensive, systematic empirical analysis. This paper conducts such an analysis. We identify forty-four articles on turnout from 1986 to 2017. These articles include over 127 potential predictors of voter turnout, and we collect data on seventy of these variables. Using extreme bounds analysis, we run over fifteen million regressions to determine which of these seventy variables are robustly associated with voter turnout in 579 elections in 80 democracies from 1945 to 2014. Overall, twenty-two variables are robustly associated with voter turnout, including compulsory voting, concurrent elections, competitive elections, inflation, previous turnout, and economic globalization. 
 
-[Published Version](https://link.springer.com/article/10.1007/s11109-021-09720-y) | [PDF](/files/PB_2023.pdf) | [Appendix](/files/PB_2023_appendix)| [Replication Materials](https://doi.org/10.7910/DVN/UIMCYT)
+[Published Version](https://link.springer.com/article/10.1007/s11109-021-09720-y) · [PDF](/files/PB_2023.pdf) · [Appendix](/files/PB_2023_appendix) · [Replication Materials](https://doi.org/10.7910/DVN/UIMCYT)
 
 </details>
 
@@ -36,7 +36,7 @@ Despite decades of research, there is no consensus as to the core correlates of 
 
 This article describes the Human Trafficking Indicators (HTI) dataset, a new resource for research on the causes of, and policy responses to, human trafficking. HTI includes country-year level information on forty-six variables for up to 184 countries from 2000 to 2017. It is the first dataset to broadly capture different trafficking types and disaggregated measures of government responses. It includes seven types of trafficking including forced labor, sexual exploitation, domestic servitude, and debt bondage. The HTI also includes eighteen measures of a government’s prosecution, protection, and prevention efforts. This paper presents an overview of the dataset, explains how it differs from other sources, describes several empirical trends, and highlights HTI’s potential uses with a brief empirical example.
 
-[Published Version](https://doi.org/10.1080/03050629.2021.1968387) | [preprint](/files/II_2022.pdf) | [Appendix](/files/II_2022_appendix)| [Replication Materials](https://doi.org/10.7910/DVN/RPIZEK)
+[Published Version](https://doi.org/10.1080/03050629.2021.1968387) · [preprint](/files/II_2022.pdf) · [Appendix](/files/II_2022_appendix) · [Replication Materials](https://doi.org/10.7910/DVN/RPIZEK)
 
 </details>
 
@@ -47,7 +47,7 @@ _with Sam R Bell_
 
 Some existing human trafficking research examines how trafficking laws and regulations deter traffickers. This research, however, pays little attention to how states’ freedom of movement policies influences human trafficking. Existing policy debates suggest two possible effects. Europe’s experiences with open borders have led to claims that freedom of movement decreases the likelihood that traffickers are detected, thus making human trafficking in and out of states more likely. By contrast, movement restrictions could create an environment where people become more vulnerable to traffickers. We utilize data from 182 countries from 2001 to 2017 to test whether freedom of movement increases or decreases human trafficking flows. We find that it is necessary, theoretically and empirically, to consider freedom of foreign movement both locally and in a state’s neighborhood because freedom of movement increases human trafficking when the local and neighborhood practices diverge from each other.
 
-[Published Version](https://doi.org/10.1080/14754835.2021.2007364) | [preprint](/files/JHR_2022.pdf) | [Appendix](/files/II_2022_appendix)| 
+[Published Version](https://doi.org/10.1080/14754835.2021.2007364) · [preprint](/files/JHR_2022.pdf) · [Appendix](/files/II_2022_appendix)  
 
 </details>
 
@@ -57,7 +57,7 @@ Some existing human trafficking research examines how trafficking laws and regul
  
 Elections are contentious by design, but contentious election outcomes—from democratic backsliding to widespread protests and violence—occur regularly and represent significant challenges to both domestic and international stability. This review essay explores three specific outcomes of contentious elections (i.e., failed democratization, democracy protests, and election violence) using three recent, influential books on these topics. It highlights several, overlapping causal mechanisms, including those focusing on structural characteristics, actor behavior, and election cycle dynamics. It also explores four cross-cutting themes (i.e., democratization, electoral history, structural constraints, and money in politics), as well as three areas for future research (i.e., overlooked actors, election integrity, and international factors).
 
-[Published Version](https://academic.oup.com/isr/article-abstract/23/3/1144/5938613?redirectedFrom=fulltext) | [preprint](/files/ISR_2021.pdf) 
+[Published Version](https://academic.oup.com/isr/article-abstract/23/3/1144/5938613?redirectedFrom=fulltext) · [preprint](/files/ISR_2021.pdf) 
 
 </details>
 
@@ -68,7 +68,7 @@ _with Jessica Genauer_
 
 This article describes a semester-long classroom simulation of the Syrian conflict designed for an introductory international relations (IR) course. The simulation culminates with two weeks of multi-stakeholder negotiations addressing four issues: humanitarian aid, economic sanctions, ceasefire, and political transition. Students randomly play one of 15 roles involving three actor types: states, non-state actors, and international organizations. This article outlines the costs and benefits of simulation design options toward encouraging students’ understanding of IR concepts, and it proposes a course plan for tightly integrating lectures, readings, assessment, and simulation—regardless of class size or length. We highlight this integration through a discussion of two weeks’ worth of material—domestic politics and war, and non-state actors—and the incorporation of bargaining concepts and frameworks into the two weeks of simulated multi-stakeholder negotiations
 
-[Published Version](https://doi.org/10.1017/S1049096519000556) | [preprint](/files/PS_2019.pdf) | [Appendix](/files/PS_2019_appendix)| 
+[Published Version](https://doi.org/10.1017/S1049096519000556) · [preprint](/files/PS_2019.pdf) · [Appendix](/files/PS_2019_appendix)· 
 
 </details>
 
@@ -79,7 +79,7 @@ _with Ferran Martínez i Coma_
 
 In recent years a growing literature focuses on how and why some election processes are viewed as having integrity while others lack it. Some scholars examine how a state’s characteristics (e.g. its economic development, the education levels of its citizens, and their experience with elections) shape the voting process while others study how individual voters view the process and their role in it. The relative importance of election dynamics themselves and the process of their evaluation, however, remain unclear. What stages of the election process are most important when people evaluate elections? We argue that a better understanding of how election dynamics shape perceptions of election integrity is crucial because theoretically this process is at the heart of democratic representation and because from a policy-making standpoint these dynamics vary more over time than individual and state-level factors. This paper explains why certain parts of the election cycle are critical to determining how an election is judged—especially the fairness of election laws and media access, the conduct of election authorities, and the use of political violence. Empirical results using new data on 121 elections held in 109 countries during 2013, 2014, and the first half of 2015 are supportive of our argument.
 
-[Published Version](https://doi.org/10.1016/j.electstud.2017.05.007) | [PDF](/files/ES_2017.pdf) | [Appendix](/files/ES_2017_appendix)| [Replication Materials](https://doi.org/10.7910/DVN/8UGVDY)
+[Published Version](https://doi.org/10.1016/j.electstud.2017.05.007) · [PDF](/files/ES_2017.pdf) · [Appendix](/files/ES_2017_appendix) · [Replication Materials](https://doi.org/10.7910/DVN/8UGVDY)
 
 </details>
 
@@ -90,7 +90,7 @@ _with Patrick Regan_
 
 Civil wars reflect, in part, internal contestation over the provision of resources. A governments ability to ‘buy off’ rebellion by providing social welfare payments is one mechanism to help ensure social stability. In times of economic distress, however, the government becomes increasingly constrained in its ability to provide social welfare and absent some form of financial relief will be subject to increasing pressure from potential rebel groups. Migrant remittances can serve as a smoothing mechanism that provides for social welfare needs outside the formal mechanisms of the state, and therefore act to reduce the incentive for rebellion. We develop a model of migrant remittances as a vehicle that provides domestic stability in times of economic constraints. We test hypotheses from this model on World Bank remittance data to 152 countries from 1980 to 2005. Our results suggest that under certain conditions migrant remittances lower the risk of civil war.
 
-[Published Version](https://doi.org/10.1177/0738894213520369) | [PDF](/files/CMPS_2014.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/DLPCXM)
+[Published Version](https://doi.org/10.1177/0738894213520369) · [PDF](/files/CMPS_2014.pdf) · [Replication Materials](https://doi.org/10.7910/DVN/DLPCXM)
 
 </details>
 
@@ -101,7 +101,7 @@ _with Pippa Norris and Ferran Martínez i Coma_
 
 Determining when, where and why elections fail is a growth industry yet to date scholars and practitioners have been hindered by lack of reliable, credible and consistent evidence which could be used to compare the quality of elections around the world. This paper presents the first results of a new pilot study, based on an expert survey of Perceptions of Electoral Integrity applied to 20 countries. This data allows analysts to compare an overall standardized 100-point PEI index, or the results can be examined in more fine-grained detail for eleven dimensions of electoral integrity, or for each of the separate 49 items. The PEI index is tested and found to demonstrate high levels of external validity, internal validity, and legitimacy. The paper concludes that, when triangulated with other evidence, PEI can address many research issues, such as how best to classify electoral autocracies, as well as proving useful for policymakers concerned with evaluating ‘what works’ to strengthen electoral integrity.
 
-[Published Version](https://doi.org/10.1353/jod.2013.0063) | [PDF](/files/JoD_2013.pdf)  
+[Published Version](https://doi.org/10.1353/jod.2013.0063) · [PDF](/files/JoD_2013.pdf)  
 
 </details>
 
@@ -112,7 +112,7 @@ _with Sam R Bell and Paul Macharia_
 
 Prior research on civil war interventions suggests that the media play a significant role in states’ decisions to intervene. To date, however, most studies focus on specific cases (frequently by the US) leaving it unclear whether the media’s influence extends more broadly. This article argues that media coverage makes intervention move likely because of the way because of domestic political and popular pressure and bureaucratic incentives. We test our hypotheses using cross-national data on civil war interventions and media coverage. These data include a new measure of media coverage of 73 countries experiencing civil wars between 1982 and 1999. These data allow us to determine whether media coverage drives leaders’ decisions or follow them. Towards this end we employ a two-stage conditional maximum likelihood model to control for potential endogeneity between media attention and interventions. The results suggest a reciprocal positive relationship between media attention and civil conflict interventions. Specifically, an increase of one standard deviation increase in media coverage raises the probability of intervention 68%.
 
-[Published Version](https://doi.org/10.1080/03050629.2013.834257) | [PDF](/files/II_2013.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/24820)
+[Published Version](https://doi.org/10.1080/03050629.2013.834257) · [PDF](/files/II_2013.pdf) · [Replication Materials](https://doi.org/10.7910/DVN/24820)
 
 </details>
 
@@ -123,7 +123,7 @@ _with Matthew DiGiuseppe and Colin Barry_
 
 Previous research indicates that a lack of state capacity is a key determinant of internal armed conflict. Scholars identify several internal dimensions of state capacity, but have yet to explore how international finance influences state resources. This is surprising because sovereign lending has increased dramatically in recent decades and plays an increasing role in the functioning of developed and developing governments. In this article, we explore this relationship between a state’s integration into global credit markets and its subsequent capacity to promote domestic stability. We argue that international capital increases a state’s ability to respond to internal opposition because states with favorable credit terms can expand their resource base beyond domestic constraints to deter, accommodate, or repress opposition while maintaining a level provision of resources to their political base. We examine the influence that both capital access and credit terms have on the risk of civil conflict in 141 countries from 1981-2007. Our empirical results indicate that states with affordable credit access are indeed less likely to experience civil conflict.
 
-[Published Version](https://doi.org/10.1177/0022343311434239) | [Preprint](/files/JPR_2012.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/24821)
+[Published Version](https://doi.org/10.1177/0022343311434239) · [Preprint](/files/JPR_2012.pdf) · [Replication Materials](https://doi.org/10.7910/DVN/24821)
 
 </details>
 
@@ -134,7 +134,7 @@ _with Patrick M Regan and Aysegul Aydin_
 
 Recent research in the civil war literature has focused on how and when external actors intervene. However, to date, systematic data have not existed on diplomatic efforts in conflict management. This article fills this gap and introduces a dataset on 438 diplomatic interventions in 68 conflicts stretching from 1945 to 1999. The authors briefly outline previous research on third-party interventions in civil wars, describe the dataset in some detail, including some initial patterns in the data, and describe how this dataset contributes to research into conflict processes. The authors also demonstrate how diplomatic interventions can be incorporated into other research agendas by merging this dataset with Doyle & Sambanis’s peacekeeping data and replicating their analysis to examine the role of external diplomacy on peacebuilding success. These data on interventions, moreover, can be merged with commonly used datasets on intrastate conflicts, which promises a wide range of application in civil war studies. Developing a greater understanding of when and how civil wars end, scholarship needs to take into account efforts to arrive at diplomatic solutions. And if, as the results demonstrate, externally driven diplomacy facilitates the termination of civil wars, then the policy implications are quite important.
 
-[Published Version](https://doi.org/10.1177/0022343308098408) | [Preprint](/files/JPR_2009.pdf) | [Replication Materials](https://www.prio.org/journals/jpr/replicationdata)
+[Published Version](https://doi.org/10.1177/0022343308098408) · [Preprint](/files/JPR_2009.pdf) · [Replication Materials](https://www.prio.org/journals/jpr/replicationdata)
 
 </details>
 
@@ -145,7 +145,7 @@ _with Patrick M Regan and David H Clark_
 
 This article introduces two new datasets produced by the Institutions and Elections Project. Those datasets contain nuanced information describing the political institutions, the constitutional and practical arrangements in governments, and every national election for every country in the international system between 1972 and 2005. We believe the 127 variables in these data represent a significant contribution to research programs in comparative and world politics interested in the nuances of domestic politics.
 
-[Published Version](https://doi.org/10.1177/0738894209104556) | [Preprint](/files/CMPS_2009.pdf) 
+[Published Version](https://doi.org/10.1177/0738894209104556) · [Preprint](/files/CMPS_2009.pdf) 
 
 </details>
 
