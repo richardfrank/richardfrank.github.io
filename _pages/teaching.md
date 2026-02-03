@@ -17,38 +17,38 @@ In 2025 I taught International Political Economy and taught into Global Cooperat
 ### Australian National University
 
 #### Graduate/honours (crosslisted) 
--Research training scope and methods (POLS4011/8058)
+-Research training scope and methods (POLS4011/8058)<br>
 
 #### Undergraduate
--International Political Economy (POLS2094) 2026, 2025
--Global Cooperation and Institutions (POLS2133) 2025
--Contemporary Political Analysis (POLS2044) 2022, 2023, 2024 (2024 course page)
--Environment, Human Security, and Conflict (POLS3033) 2016, 2017, 2019, 2020, 2022, 2024 (2022 course page)
--Conflict and Change in Sub-Saharan Africa (POLS3040) 2019, 2021, 2023 (2023 course page)
--Civilian Protection in Conflict and Post-Conflict Zones (POLS4021) 2021 
--Introduction to International Relations (POLS1005) 2015-2018
--International Relations Theory (POLS3017) 2015-2017
+-International Political Economy (POLS2094) 2025, 2026<br>
+-Global Cooperation and Institutions (POLS2133) 2025<br>
+-Contemporary Political Analysis (POLS2044) 2022, 2023, 2024<br>
+-Environment, Human Security, and Conflict (POLS3033) 2016, 2017, 2019, 2020, 2022, 2024<br>
+-Conflict and Change in Sub-Saharan Africa (POLS3040) 2019, 2021, 2023<br>
+-Civilian Protection in Conflict and Post-Conflict Zones (POLS4021) 2021<br> 
+-Introduction to International Relations (POLS1005) 2015-2018<br>
+-International Relations Theory (POLS3017) 2015-2017<br>
 
 ### University of New Orleans
 
 #### Graduate
--Maximum Likelihood Estimation (POLI 6003) 2010, 2012 (2012 course page)
--Civil Conflict (POLI 6990)  2010, 2012
--International Conflict (POLI 6885)  2009, 2011
--American Foreign Policy (POLI 6245) 2011
+-Maximum Likelihood Estimation (POLI 6003) 2010, 2012<br>
+-Civil Conflict (POLI 6990)  2010, 2012<br>
+-International Conflict (POLI 6885)  2009, 2011<br>
+-American Foreign Policy (POLI 6245) 2011<br>
 
 #### Undergraduate/Graduate (cross-listed)
--Concepts and Patterns of International Politics (POLI 4800) 2012
--Conflict and Diplomacy (POLI 4885)  2010, 2012
--International Organizations (POLI 4820) 2010, 2012
--Politics of Developing Areas (POLI 4710) 2009, 2011
--Dangers of Globalization (POLI 4990) 2011
+-Concepts and Patterns of International Politics (POLI 4800) 2012<br>
+-Conflict and Diplomacy (POLI 4885)  2010, 2012<br>
+-International Organizations (POLI 4820) 2010, 2012<br>
+-Politics of Developing Areas (POLI 4710) 2009, 2011<br>
+-Dangers of Globalization (POLI 4990) 2011<br>
 
 ### Binghamton University (SUNY)
 
 #### Undergraduate
--Poverty and Conflict (PLSC 486T) 2008
--Political Economy of Civil War (PLSC 389G) 2008
+-Poverty and Conflict (PLSC 486T) 2008<br>
+-Political Economy of Civil War (PLSC 389G) 2008<br>
 
 ## Resources
 
