@@ -180,6 +180,25 @@ This chapter introduces the Expert Survey of Perceptions of Electoral Integrity 
 
 </details>
 
+<details markdown="1">
+<summary><strong>Contentious Elections (2014)</strong> - <em>Oxford Univeristy Press</em></summary>
+
+_with Pippa Norris and Ferran Martínez i Coma_
+
+"Contentious Elections: From Votes to Violence." in _Contentious Elections_: pp. 1-21.
+
+</details>
+
+<details markdown="1">
+<summary><strong>The Risks of Contentious Elections (2014)</strong> - <em>Oxford Univeristy Press</em></summary>
+
+_with Pippa Norris and Ferran Martínez i Coma_
+
+"The Risks of Contentious Elections." in _Contentious Elections_: pp. 133-150.
+
+</details>
+
+
 ## Publications, other
 
 <details markdown="1">
@@ -195,3 +214,12 @@ This chapter introduces the Expert Survey of Perceptions of Electoral Integrity 
 [Book review](https://www.psqonline.org/article.cfm?IDArticle=18657) of Securing the Peace: The Durable Settlement of Civil Wars by Monica Duffy Toft. 2010. Political Science Quarterly 125(3): 148-9. 
 
 </details>
+
+<details markdown="1">
+<summary><strong>Let's Go: Brazil (2004)</strong> </summary>
+
+Chapters on Santarém (477-80), Ater do Chāo (480-1), Tocantins (486-90), Amazonas (490-508), Roraima (508-12), Acre (512-9), and Rondônia (519-22) in Let's Go: Brazil (2004).
+
+</details>
+
+
