@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Welcome to my research page. You can also find my articles on my [Google Scholar profile](ttps://scholar.google.com/citations?hl=en&user=fL0DcbQAAAAJ).
+Welcome to my research page. You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=fL0DcbQAAAAJ).
  
 
 ## Articles, peer-reviewed
