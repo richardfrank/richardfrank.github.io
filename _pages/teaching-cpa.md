@@ -11,23 +11,27 @@ Contemporary Political Analysis continues students’ study of the principles of
 My goals for this class are different than many who teach it. I am not trying to put ten pounds of methods into a five-pound sack. Nor do I have students use the most complex statistical software without understanding why they are using it and why it useful. This is akin to giving a toddler a drill. Occasionally things will work out okay, but the danger is real that the user will do something without fully understanding what the implications are. Instead, I walk students through the design and execution phases of political science research so that they have the tools to (1) undertake the research process, (2) understand others’ research designs, and (3) more broadly, understand the menu of methods out there and how to choose between them according to their research topic and interests.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ren2cg9z8D8?si=wNUnu2PmDZoWnol7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 
+
 
 ## Course Materials
+
 | Week | Weekly topics (2024) | Lecture slides | Reading notes, lecture notes, & activities |
 |------|---------------------|----------------|-------------------------------------------|
-| 1 | Welcome & introduction | [Week 1 slides](/files/week1-slides.pdf) | [Week 1 notes](/files/week1-notes.pdf) |
-| 2 | Theories & causality | [Week 2 slides](/files/week2-slides.pdf) | [Week 2 notes](/files/week2-notes.pdf) |
-| 3 | Research design | [Week 3 slides](/files/week3-slides.pdf) | [Week 3 notes](/files/week3-notes.pdf) |
-| 4 | Concepts & measures | [Week 4 slides](/files/week4-slides.pdf) | [Week 4 notes](/files/week4-notes.pdf) |
-| 5 | Sampling & surveys | [Week 5 slides](/files/week5-slides.pdf) | [Week 5 notes](/files/week5-notes.pdf) |
-| 6 | Descriptive inference & statistics | [Week 6 slides](/files/week6-slides.pdf) | [Week 6 notes](/files/week6-notes.pdf) |
-| 7 | Probability & statistical inference
-| 8 | Bivariate hypothesis testing
-| 9 | Two-variable regression modeling & interpretation
-| 10 | Multiple regression basics
-| 11 | Common research design pitfalls
-| 12 | Summing up
+| 1 | Welcome & introduction | <a href="https://www.dropbox.com/scl/fi/to7nsxurgqotqui8kfd2n/2044_24_wk1_slides.pdf?rlkey=dksqdzy1t50fr7grzsxzhoubq&dl=0" target="_blank">Week 1 slides</a> | [Week 1 notes](/files/2044_24_wk1_notes.pdf) |
+| 2 | Theories & causality | <a href="https://www.dropbox.com/scl/fi/q9vdli5dk48e7uj4box4a/2044_24_wk2_slides.pdf?rlkey=h0bwfdr0p8lo1coh67q7dv4dh&dl=0" target="_blank">Week 2 slides</a> | [Week 2 notes](/files/2044_24_wk2_notes.pdf) |
+| 3 | Research design | [Week 3 slides](/files/2044_24_wk3_slides.pdf) | [Week 3 notes](/files/2044_24_wk3_notes.pdf) |
+| 4 | Concepts & measures | [Week 4 slides](/files/2044_24_wk4_slides.pdf) | [Week 4 notes](/files/2044_24_wk4_notes.pdf) |
+| 5 | Sampling & surveys | [Week 5 slides](/files/2044_24_wk5_slides.pdf) | [Week 5 notes](/files/2044_24_wk5_notes.pdf) |
+| 6 | Descriptive inference & statistics | [Week 6 slides](/files/2044_24_wk6_slides.pdf) | [Week 6 notes](/files/2044_24_wk6_notes.pdf) |
+| 7 | Probability & statistical inference  | [Week 6 slides](/files/2044_24_wk6_slides.pdf) | [Week 6 notes](/files/2044_24_wk7_notes.pdf) |
+| 8 | Bivariate hypothesis testing  | [Week 6 slides](/files/2044_24_wk6_slides.pdf) | [Week 6 notes](/files/2044_24_wk8_notes.pdf) |
+| 9 | Two-variable regression modeling & interpretation  | [Week 6 slides](/files/2044_24_wk6_slides.pdf) | [Week 6 notes](/files/2044_24_wk9_notes.pdf) |
+| 10 | Multiple regression basics  | [Week 6 slides](/files/2044_24_wk6_slides.pdf) | [Week 6 notes](/files/2044_24_wk10_notes.pdf) |
+| 11 | Common research design pitfalls  | [Week 6 slides](/files/2044_24_wk6_slides.pdf) | [Week 6 notes](/files/2044_24_wk11_notes.pdf) |
+| 12 | Summing up  | [Week 6 slides](/files/2044_24_wk6_slides.pdf) | [Week 6 notes](/files/2044_24_wk12_notes.pdf) |
 
+## Sample lecture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ren2cg9z8D8?si=wNUnu2PmDZoWnol7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
  
