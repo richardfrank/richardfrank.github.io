@@ -23,7 +23,7 @@ In 2026 I am teaching International Political Economy and Honours/Graduate Resea
 #### Undergraduate
 -International Political Economy (POLS2094) 2025, 2026<br>
 -Global Cooperation and Institutions (POLS2133) 2025<br>
--Contemporary Political Analysis (POLS2044) 2022, 2023, 2024<br>
+-[Contemporary Political Analysis](teaching/cpa/)(POLS2044) 2022, 2023, 2024<br>
 -Environment, Human Security, and Conflict (POLS3033) 2016, 2017, 2019, 2020, 2022, 2024<br>
 -Conflict and Change in Sub-Saharan Africa (POLS3040) 2019, 2021, 2023<br>
 -Civilian Protection in Conflict and Post-Conflict Zones (POLS4021) 2021<br> 
