@@ -9,11 +9,10 @@ author_profile: true
 
 
 ## Class description
-Class overview
 
 This class explores the issues, ideas, and trends that shape the politics of sub-Saharan Africa, across almost 50 countries and 1.5 billion people. Unlike what often appears in the press, Africa is not all conflict, famine, and state collapse. This class offers an overview of both successful and unsuccessful cases of political and economic development in this region and seeks to answer a number of questions including: What are the legacies of colonial rule? Why do some African countries suffer political violence more frequently than other countries within Africa or without? Why has democracy been consolidated in certain African countries but regressed or collapsed in others? What accounts for the failures and successes of African countries’ economic development? How have international actors and events affected African politics and society?
 
-Class structure
+## Class structure
 
 The class organized into three main sections. We start by considering the political legacies of pre-colonial societies, colonial rule, independence, and the recent decades of economic and political change. The second section introduces theoretical causes for some of Africa’s political conflicts including institutional, political, economic, and structural factors. In the third section we consider issues related to political and economic change including democratic transitions and electoral politics, economic growth and foreign assistance, and regional efforts towards political and economic cooperation.
 
@@ -25,13 +24,13 @@ The class organized into three main sections. We start by considering the politi
 | Week 3 | State building, state formation, & personal rule |
 | Week 4 | State failure & political violence |
 | | |
-| **Part 2** | **Theories of political conflict ** |
+| **Part 2** | **Theories of political conflict** |
 | Week 5 | Political factors |
 | Week 6 | Economic factors |
 | Week 7 | Structural factors |
 | Week 8 | Natural resource extraction |
 | | |
-| **Part 3** | **Political and economic change ** |
+| **Part 3** | **Political and economic change** |
 | Week 9 | Democratic transtitions & elections |
 | Week 10 | Economic development & aid |
 | Week 11 | Int'l organizations, regional treaties, & human rights |
