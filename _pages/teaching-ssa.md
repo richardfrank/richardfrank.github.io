@@ -5,7 +5,8 @@ permalink: /teaching/ssa/
 author_profile: true
 ---
 
-<a href="/files/4021_21_syl.pdf" class="btn btn--primary">Download Syllabus</a>
+<a href="/files/4021_21_syl.pdf" class="btn btn--primary">Download Syllabus</a> <a href="https://programsandcourses.anu.edu.au/2023/course/POLS3040/Second%20Semester/6239" class="btn btn--primary" target="_blank">2023 class details</a>
+
 
 ## Class description
 Class overview
