@@ -5,9 +5,6 @@ permalink: /teaching/cp/
 author_profile: true
 ---
 
-# Civilian protection in conflict and post-conflict zones
-## POLS4021
-
 <a href="/files/4021_21_syl.pdf" class="btn btn--primary">Download Syllabus</a>
 
 ## Class description
