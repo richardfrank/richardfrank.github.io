@@ -27,7 +27,7 @@ In 2026 I am teaching [International Political Economy](/teaching/ipe) and Honou
 -[Contemporary Political Analysis](/teaching/cpa/) (POLS2044) 2022, 2023, 2024<br>
 -[Environment, Human Security, and Conflict](/teaching/ehsc/) (POLS3033) 2016, 2017, 2019, 2020, 2022, 2024<br>
 -[Conflict and Change in Sub-Saharan Africa](/teaching/ssa/) (POLS3040) 2019, 2021, 2023<br>
--[Civilian Protection in Conflict and Post-Conflict Zones](/teaching/ssa/) (POLS4021) 2021<br> 
+-[Civilian Protection in Conflict and Post-Conflict Zones](/teaching/cp/) (POLS4021) 2021<br> 
 -Introduction to International Relations (POLS1005) 2015-2018<br>
 -International Relations Theory (POLS3017) 2015-2017<br>
 
