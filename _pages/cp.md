@@ -1,10 +1,16 @@
+---
+layout: archive
+title: "Civilian protection in conflict and post-conflict zones"
+permalink: /teaching/cp/
+author_profile: true
+---
 
 # Civilian protection in conflict and post-conflict zones
 ## POLS4021
 
 <a href="/files/4021_21_syl.pdf" class="btn btn--primary">Download Syllabus</a>
 
-## Summary
+## Class description
 Recent years have seen a dramatic growth in research on the roles and experiences of civilians during civil conflict. This class explores three important and interconnected themes in this area: (1) the nature of contemporary forms of civil conflict and the use of violence; (2) the experiences of civilians in conflict zones; and (3) the responsibilities (and efforts) of domestic institutions and the international community to seek the protection of civilians in (and after) conflict. This class will read, analyze, and discuss both established works and cutting-edge research in these areas.
 
 The first part of the semester focuses on how political institutions, government actors, rebel leaders, civilians and rank-and-file soldiers use violence and the intended and unintended effects of this violence. 
