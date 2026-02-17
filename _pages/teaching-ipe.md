@@ -9,7 +9,7 @@ author_profile: true
 
 ## Class description
 
-In 2025 and 2026 I co-teach this class with Ruosui "Kelly" Zhang. I teach weeks 1 and 7-12, and Kelly teaches weeks 2-6.
+In 2025 and 2026 I co-teach this class with Dr. Ruosui "Kelly" Zhang. I teach weeks 1 and 7-12, and Dr. Zhang teaches weeks 2-6.
 
 The study of International Political Economy (IPE) examines the interactions between markets and politics. Is globalisation responsible for the rise of populism in the West? How will the power struggle between China and the United States shape global business? This course introduces students to the key concepts and theories of IPE in order to analyse and understand these pressing issues and questions facing policymakers and citizens.
 
