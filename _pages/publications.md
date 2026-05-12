@@ -159,7 +159,7 @@ This article introduces two new datasets produced by the Institutions and Electi
 ## Books, edited
 
 <details markdown="1">
-<summary><strong>Contentious Elections: From Ballots to Barracades (2015)</strong> - <em>Routledge</em></summary>
+<summary><strong>Contentious Elections: From Ballots to Barricades (2015)</strong> - <em>Routledge</em></summary>
 
 _with Pippa Norris and Ferran Martínez i Coma_
 
