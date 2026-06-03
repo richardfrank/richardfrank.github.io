@@ -22,7 +22,7 @@ Most published research on political science curriculum design focuses on the Un
 
 The literature on election violence lacks a consistent set of core predictors for why certain elections are violent and others are not. Between 2010 and 2022 ninety-seven scholars published sixty-five peer-reviewed journal articles on this topic using quantitative research designs involving over 440 predictor variables. As a distinct research area, therefore, the study of election violence has reached a size and maturity where it is useful to take stock. Through a meta-analysis of 581 models, this manuscript makes three key contributions. First, it finds that thirteen of forty-four variables consistently predict election violence, which highlights both the field's fragmentation and most promising avenues for future research. Second, it reveals that election-specific factors like fraud and competitiveness are more reliable predictors than commonly studied structural conditions like democracy or economic development. Third, it shows that many predictors operate differently at national and subnational levels, with only population size and domestic conflict significant at both levels. This manuscript’s findings suggest a greater focus is needed on election-specific triggers, explicit discussions about perpetrators and targets, and measurement issues.
 
-[Published Version](https://doi.org/10.1177/00223433251360191) · [PDF](/files/JPR_2025.pdf) · [Appendix](/files/JPR_2025_appendix) · [Replication Materials](https://www.prio.org/journals/jpr/replicationdata)
+[Published Version](https://doi.org/10.1177/00223433251360191) · [PDF](/files/JPR_2025.pdf) · [Appendix](/files/JPR_2025_appendix) · [Replication Materials](https://doi.org/10.7910/DVN/MXWSFA)
 
 </details>
 
