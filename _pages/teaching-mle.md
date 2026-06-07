@@ -10,8 +10,9 @@ The models covered in this course are widely used in political science today. To
 [Syllabus](https://www.dropbox.com/scl/fi/p3fx87u7l88qgtifdjajd/Frank-MLE-syllabus.pdf?rlkey=7ck7uqefyv3je27ki1o9sospp&dl=0)
 
 *Course overview*
-
-Week 1: Introduction and review of linear models ([Week 1 slides](https://www.dropbox.com/scl/fi/sot42a6s5232hudcjmkme/Frank-MLE-Wk1.pdf?rlkey=b3sbkur1lm7uz1njchpqylpz4&dl=0) 
+| | |
+|---|---|
+| Week 1 | Introduction and review of linear models | [Week 1 slides](https://www.dropbox.com/scl/fi/sot42a6s5232hudcjmkme/Frank-MLE-Wk1.pdf?rlkey=b3sbkur1lm7uz1njchpqylpz4&dl=0) |
 Week 2: No class (APSA)
 Week 3: OLS & time series review; intro. to likelihood inference ([Week 3 slides](https://www.dropbox.com/scl/fi/yv0x5ygfjio3bbp02dszn/Frank-MLE-Wk3-Intro-to-Inference.pdf?rlkey=93f94nfnbyq8xo5a643dnr0mm&dl=0)
 Week 4: Likelihood inference ([Week 4 slides](http://Week 4 slides "Frank MLE Wk4 Intro to Inference"))
