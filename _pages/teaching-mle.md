@@ -1,6 +1,8 @@
 ---
-title: "Maximum Likelihood"
- 
+layout: archive
+title: "Maximum Likelihood Estimation"
+permalink: /teaching/mle/
+author_profile: true
 ---
 
 This seminar is a survey of maximum likelihood (ML) methods and their applications to empirical political questions. It was the third course in the University of New Orleans graduate research methods course sequence when I was at UNO. This course focuses on understanding the conditions when the assumptions of ordinary least squares (OLS) regression are violated, the principles of maximum likelihood estimation, and what models are appropriate given observed data. This seminar centers on the use and interpretation of ML and on linking theory to statistical models.
