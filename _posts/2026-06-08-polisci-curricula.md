@@ -14,13 +14,13 @@ Three findings stand out.
 
 First, structured curricula are far more common outside the United States than the US-focused literature would suggest. Thirty-four percent of universities in my sample require all three Wahlke (1991) elements, compared with just 18 percent of US programs in the most [comparable study]( https://doi.org/10.1017/S1049096520001882). The often-repeated claim that the structured model has failed to catch on turns out to be a story about the US, not about the discipline more broadly.
 
-Figure 1
+![Figure 1](/assets/images/Frank_2026_Fig_1.png)
 
 Second, that 34% average hides enormous variation between countries. The UK does almost all of the heavy lifting, with 76 of its 141 programs requiring the full sequence, a pattern that very likely reflects the national [Subject Benchmark Statement](https://www.qaa.ac.uk/the-quality-code/subject-benchmark-statements) for politics. Introduction to International Relations is the single most required course across the whole sample, appearing in 144 of 218 degrees. But each country has its own signature, with national-politics courses common in Australia, Canada, and New Zealand, yet largely absent in Ireland and the UK.
 
-Figure 2
+![Figure 2](/assets/images/Frank_2026_Fig_2.png)
 
-Table 1
+![Table 1](/assets/images/Frank_2026_Table_1.png)
 
 Third, structure is not random. Using multivariate regression models, I find that three institutional features consistently predict a more structured degree: PhD-granting status, a larger faculty, and a higher share of the degree made up of required courses. PhD-granting universities, for example, are nearly twice as likely to require methods training as those without doctoral programs. Prestige matters too, but mainly for capstones, where elite universities are more likely to have the staff to supervise independent research. Put simply, a department's mission and resources shape its curriculum.
 
