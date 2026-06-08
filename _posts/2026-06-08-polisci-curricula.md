@@ -26,5 +26,4 @@ Third, structure is not random. Using multivariate regression models, I find tha
 
 In sum, this paper suggests that curriculum design reflects systematic relationships between institutional characteristics and program structure. Understanding these patterns and the mechanisms that produce them can inform more intentional curricular choices that align program design with educational goals in diﬀerent institutional contexts. For Australian political science in particular, these findings suggest that our relatively unstructured approach likely reflects institutional autonomy rather than pedagogical consensus– a distinction that matters as quality assurance debates intensify.
 
-If you are curious to know more, the article is open access and available [here](https://doi.org/10.1080/10361146.2026.2664189).
-<img width="468" height="640" alt="image" src="https://github.com/user-attachments/assets/ebd832f5-ecd3-41d0-ad1f-b78e18d7c780" />
+If you are curious to know more, the article is open access and available [here](https://doi.org/10.1080/10361146.2026.2664189). 
