@@ -14,7 +14,7 @@ Three findings stand out.
 
 First, the field is more fragmented than its volume suggests. Of the more than 440 predictors tested, only six appear in more than a quarter of studies, and just 44 are used in at least three. Of those 44, only 13 consistently predict election violence. Put differently, the literature has tested a great many things but agree on very few. This is not a criticism of any single study; it is what happens when a field grows quickly through narrow, incremental questions without pausing to map the whole.
 
-![Figure 7](https://richardwfrank.com/images/figure_7.jpg){: width="50%" .align-center}
+<img src="https://richardwfrank.com/images/figure_7.jpg" alt="Figure 7" style="width:50%; height:auto;">
 
 Second, the predictors that do hold up are mostly election-specific, not structural. The single strongest predictor is simply prior violence: countries whose last election was violent are far more likely to see violence again, with an average effect size of 0.92, the largest of any variable. Beyond that, election-specific triggers such as fraud, competitiveness, whether the executive is on the ballot, and the timing of the vote are more reliable than the structural conditions the literature leans on most heavily. Strikingly, neither democracy nor economic development (measured as GDP per capita and among the most commonly included variables) consistently predicts violence at all. The factors we tend to reach for first are not the ones that earn their place.
 
