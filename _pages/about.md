@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About
 
 Hello and welcome. I am Rich Frank, a Senior Lecturer and the Research Community Coordinator in the School of Politics and International Relations at the Australian National University. I am a quantitative political scientist, and my work asks why elections turn violent, how we measure electoral integrity, and how political and economic forces shape political violence, human rights abuses, and human trafficking.
 
