@@ -14,13 +14,13 @@ Three findings stand out.
 
 First, the field is more fragmented than its volume suggests. Of the more than 440 predictors tested, only six appear in more than a quarter of studies, and just 44 are used in at least three. Of those 44, only 13 consistently predict election violence. Put differently, the literature has tested a great many things but agree on very few. This is not a criticism of any single study; it is what happens when a field grows quickly through narrow, incremental questions without pausing to map the whole.
 
-[Figure 7](images/figure_7.jpg)
+![Figure 7](images/figure_7.jpg)
 
 Second, the predictors that do hold up are mostly election-specific, not structural. The single strongest predictor is simply prior violence: countries whose last election was violent are far more likely to see violence again, with an average effect size of 0.92, the largest of any variable. Beyond that, election-specific triggers such as fraud, competitiveness, whether the executive is on the ballot, and the timing of the vote are more reliable than the structural conditions the literature leans on most heavily. Strikingly, neither democracy nor economic development (measured as GDP per capita and among the most commonly included variables) consistently predicts violence at all. The factors we tend to reach for first are not the ones that earn their place.
 
 Third, level of analysis matters more than we usually acknowledge. Predictors often behave differently in national and subnational data, and only two, population size and ongoing domestic conflict, are consistent at both levels. At the subnational level a different picture comes into focus, where younger citizens and female candidates face a measurably higher risk of election violence. The overall lesson is one of caution: a result established in cross-national data should not be assumed to travel down to the local level, or the reverse.
 
-[Figure 8](images/figure_8.jpg)
+![Figure 8](images/figure_8.jpg)
 
 In sum, this meta-analysis suggests the study of election violence would benefit from a shift in emphasis. The most robust predictors come from the election-specific and political-conflict clusters rather than slow-moving background conditions, which points future work toward the short-term, strategic triggers of the electoral cycle rather than the structural staples. It also points to two persistent weaknesses worth confronting directly: the field rarely specifies *who* is perpetrating violence and who is being targeted, and it measures election violence in 157 different ways drawn from 40 separate data sources, which makes cumulative knowledge hard to build. Naming perpetrators and targets, and converging on shared measures, would let the next decade of research add up to more than the sum of its studies.
 
