@@ -5,7 +5,7 @@ permalink: /teaching/grd/
 author_profile: true
 ---
 
-<a href="https://programsandcourses.anu.edu.au/course/pols4011" class="btn btn--primary" target="_blank">2026 class details</a>
+<a href="https://programsandcourses.anu.edu.au/course/POLS4011/First%20Semester/2364" class="btn btn--primary" target="_blank">2026 class details</a>
 
 ## Class description
 
@@ -30,6 +30,6 @@ Assessment is built around each student's own research project: a research desig
 | Week 7  | Causal inference, part 1                   | [Week 7 notes](/files/4011_26_wk7_notes.pdf)   |
 | Week 8  | Causal inference, part 2                   | [Week 8 notes](/files/4011_26_wk8_notes.pdf)   |
 | Week 9  | When things fall apart, part 1            | [Week 9 notes](/files/4011_26_wk9_notes.pdf)   |
-| Week 10 | When things fall apart, part 2            | [Week 10 notes](/4011_26_wk10_notes.pdf) |
+| Week 10 | When things fall apart, part 2            | [Week 10 notes](/files/4011_26_wk10_notes.pdf) |
 | Week 11 | Student presentations and discussion, part 1 | [Week 11 and 12 notes](/files/4011_26_wk11-12_notes.pdf) |
 | Week 12 | Student presentations and discussion, part 2 | [Week 11 and 12 notes](/files/4011_26_wk11-12_notes.pdf) |
